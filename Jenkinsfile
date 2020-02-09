@@ -9,6 +9,6 @@ stage('Release'){
 echo "Release job is Successful"
 }
 stage('Deploy'){
-echo "Deploy job is Successful"
+echo "Deploy job is Successul"
 }
 }
